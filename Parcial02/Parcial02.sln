@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parcial02", "Parcial02\Parcial02.csproj", "{D03C8CD8-FB26-4717-A590-D550BF8FBE3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D03C8CD8-FB26-4717-A590-D550BF8FBE3C}.Debug|x86.ActiveCfg = Debug|x86
+		{D03C8CD8-FB26-4717-A590-D550BF8FBE3C}.Debug|x86.Build.0 = Debug|x86
+		{D03C8CD8-FB26-4717-A590-D550BF8FBE3C}.Release|x86.ActiveCfg = Release|x86
+		{D03C8CD8-FB26-4717-A590-D550BF8FBE3C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
